@@ -1,0 +1,34 @@
+{
+    "products":
+    [
+        {
+          "installationId": 1001,
+          "solar_panel_brand": "Tata Power Solar",
+          "kw": 5,
+          "price": 90000,
+          "average_power_production": 20
+        },
+        {
+         "installationId": 1002,
+          "solar_panel_brand": "Waaree Energies",
+          "kw": 7,
+          "price": 120000,
+          "average_power_production": 28
+        },
+        {
+          "installationId": 1003,
+          "solar_panel_brand": "Adani Solar",
+          "kw": 10,
+          "price": 150000,
+          "average_power_production": 40
+        },
+        {
+          "installationId": 1004,
+          "solar_panel_brand": "Vikram Solar",
+          "kw": 3,
+          "price": 60000,
+          "average_power_production": 12
+        }
+      ]
+      
+}

@@ -1,0 +1,17 @@
+.user-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-list li {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #eae7e7;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  .user-list li:hover {
+    background-color: #c21919;
+  }
+  

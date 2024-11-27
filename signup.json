@@ -1,0 +1,36 @@
+{
+  "userss": [
+    {
+      "installationId": 1001,
+      "id": "646c",
+      "name": "Arun ",
+      "email": "arunsanthia@gmail.com",
+      "password": "arun24",
+      "status": "Accepted"
+    },
+    {
+      "installationId": 1002,
+      "id": "647c",
+      "name": "Ajith ",
+      "email": "ajith@gmail.com",
+      "password": "ajith01",
+      "status": "Accepted"
+    },
+    {
+      "installationId": 1003,
+      "id": "648c",
+      "name": "Preethi",
+      "email": "preethi@gmail.com",
+      "password": "preethi02",
+      "status": "Denied"
+    },
+    {
+      "installationId": 1004,
+      "id": "649c",
+      "name": "mike tyson",
+      "email": "tyson@gmail.com",
+      "password": "mike16",
+      "status": "Accepted"
+    }
+  ]
+}
